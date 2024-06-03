@@ -1,4 +1,5 @@
-Dosyalar
+*Dosyalar*
+
 -.gitignore: Git tarafından takip edilmeyecek dosya ve dizinleri belirtir.
 
 -Diyet Listeleri.rar: Diyet listelerini içeren sıkıştırılmış dosya.
