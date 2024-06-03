@@ -6,15 +6,15 @@ Bu proje diyet programlama , çeşitli diyet listelerini ve vücut kitle indeksi
 
 - `Diyet Listeleri/`: Farklı diyet listelerini içeren dizin.
 - `.gitignore`: Git tarafından takip edilmeyecek dosya ve dizinleri belirtir.
-- `Diyet Listeleri.rar`: Diyet listelerini içeren sıkıştırılmış dosya.
-- `README.md`: Proje hakkında bilgi veren dosya.
+-  `README.md`: Proje hakkında bilgi veren dosya.
+- `cinsiyetYasBox.txt`: arayüze eklenen yaş ve cinsiyet boxı ile ilgili bilgiler içerir.
 - `birleştirme.txt`: diyet listeleri ve verileri birleştirme ile ilgili bilgiler içerir.
 - `kitleendeksihesaplama.txt`: Vücut kitle indeksi hesaplama ile ilgili bilgiler içerir.
 - `ortabaslık.txt`: Orta başlıklarla ilgili bilgiler içerir.
 - `tableogrenme.txt`: Tabloları öğrenme veya kullanma ile ilgili bilgiler içerir.
-- `version-1.txt`: Projenin birinci versiyonu ile ilgili bilgiler.
+- `version-1/`: Projenin birinci versiyonu ile ilgili bilgiler.
 - `version-2/`: Projenin ikinci versiyonu ile ilgili dosyalar.
-
+- `version-3/`: Projenin ücüncü versiyonu ile ilgili bilgiler.
 ## Kurulum
 
 Bu projeyi kendi bilgisayarınıza klonlamak için:
