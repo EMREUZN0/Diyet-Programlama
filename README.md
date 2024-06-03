@@ -15,7 +15,8 @@
 -tableogrenme.txt: Tabloları öğrenme veya kullanma ile ilgili bilgiler içerir.
 
 
-##Kurulum
+## Kurulum
+
 Bu özellik dalını yerel bir kopyasını oluşturmak için:
 
 git checkout -b feature
