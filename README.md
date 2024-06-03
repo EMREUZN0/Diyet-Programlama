@@ -1,4 +1,4 @@
-*Dosyalar*
+## Dosyalar
 
 -.gitignore: Git tarafından takip edilmeyecek dosya ve dizinleri belirtir.
 
