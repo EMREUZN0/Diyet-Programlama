@@ -24,6 +24,8 @@ git clone https://github.com/kullanici/Diyet-Programlama.git
 
 ## PHP uygulama
 
-version-2 dizinindeki PHP dosyalarını yerel sunucunuza (örn. XAMPP, MAMP) taşıyın. Sunucu kök dizinine (örn. htdocs veya www) kopyalayın.
+version-2 dizinindeki PHP dosyalarını yerel sunucunuza (örn. XAMPP, MAMP) taşıyın. Sunucu kök
+dizinine (örn. htdocs veya www) kopyalayın.
+
 Tarayıcınızı açın ve http://localhost/version-2 adresine gidin.
 PHP dosyalarının doğru çalıştığını doğrulayın.
